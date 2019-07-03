@@ -1,6 +1,5 @@
 {
-  "appEntryPoint": "/user",
-  "appTitle": "Midgard",
-  "modules": []
+    "appEntryPoint": "/user",
+    "appTitle": "tutorial-app",
+    "modules": []
 }
-
